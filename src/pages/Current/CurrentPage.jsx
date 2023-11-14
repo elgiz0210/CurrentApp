@@ -54,6 +54,7 @@ const CurrentPage =() =>{
                                     <div><h5>Название банков </h5>{item.title}</div>
                                     <div>доллары{item.rates[0].buy_usd}</div>
                                     <div>рубли{item.rates[0].buy_rub}</div>
+                                    <div>евро{item.rates[0].buy_eur}</div>
                                     
                                 </div>
                             
