@@ -1,0 +1,11 @@
+.item-list{
+    cursor: pointer;
+    width: max-content;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.item-list:hover{
+    background: green;
+}
